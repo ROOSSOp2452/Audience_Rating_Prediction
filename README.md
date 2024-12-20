@@ -27,7 +27,7 @@ How to Run
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/audience-rating-prediction.git
+git clone https://github.com/ROOSSOp2452/Audience-Rating-Prediction.git
 cd audience-rating-prediction
 Install the required dependencies:
 bash
